@@ -8,10 +8,10 @@ class Player {
   private int z;
  
   public Player() {
-    this("P" + (numPlayers + 1), 0, 0, 0); //default constructor
+    this(____ + (numPlayers + 1), 0, 0, 0); //default constructor
   }
   public Player(String name, int x, int y, int z) {
-    this(name, x, y, z, 20, 1);
+    this(name, x, y, z, ___, ___);
   }
   public Player(String name, int x, int y, int z, int hp, int direction) {
     this.name = name;
