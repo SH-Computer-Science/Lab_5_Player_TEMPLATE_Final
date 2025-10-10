@@ -19,9 +19,9 @@ class Player {
     this.y = y;
     this.z = z;
     setHp(hp);
-    this.direction = 1;
+    this.direction =____;
     setDirection(direction);
-    numPlayers += 1;
+    numPlayers +=_____;
   }
  
  
